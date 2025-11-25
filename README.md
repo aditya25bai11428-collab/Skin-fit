@@ -1,4 +1,4 @@
-
+##PROJECT TITLE - SKIN FIT 
 I designed and implemented a machine-learning based system capable of distinguishing between vitiligo/leucoderma-affected skin and healthy skin with high accuracy.with the help of the data set I mentioned below 
 <img width="1470" height="956" alt="Screenshot 2025-11-24 at 5 17 04 PM" src="https://github.com/user-attachments/assets/c3dc5600-f3a5-4289-80ad-acf9a42268ea" />
 <img width="1470" height="956" alt="Screenshot 2025-11-24 at 5 17 12 PM" src="https://github.com/user-attachments/assets/acef64fe-77d9-4eaf-84d2-1cb094177907" />
